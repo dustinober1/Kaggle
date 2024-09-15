@@ -8,6 +8,7 @@ This repository contains code and notebooks for various Kaggle competitions and 
 - [Projects](#projects)
   - [Big Cats Image Classification](#big-cats-image-classification)
   - [Bird Detection](#bird-detection)
+  - [Health and Sleep](#health-and-sleep)
   - [Ink Detection](#ink-detection)
   - [Playground Series - Season 3, Episode 12](#playground-series---season-3-episode-12)
   - [Soybean Classification](#soybean-classification)
@@ -33,6 +34,12 @@ This project involves training an image classification model to identify differe
 A project focused on detecting different bird species from images using object detection techniques. It includes data augmentation, model training, and evaluation steps.
 
 [Project Content](https://github.com/dustinober1/Kaggle/tree/main/Bird%20Detection)
+
+### Health and Sleep
+
+An exploratory data analysis project on health and sleep data. The project involves analyzing sleep patterns and their correlation with various health metrics, employing data visualization and statistical methods.
+
+[Project Content](https://github.com/dustinober1/Kaggle/tree/main/Health%20and%20Sleep)
 
 ### Ink Detection
 
